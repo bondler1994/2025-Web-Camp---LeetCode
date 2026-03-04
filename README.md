@@ -10,8 +10,13 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/bondler1994/2025-Web-Camp---LeetCode/tree/master/1791-richest-customer-wealth) |
+| [0001-two-sum](https://github.com/bondler1994/2025-Web-Camp---LeetCode/tree/master/0001-two-sum) |
 ## Matrix
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/bondler1994/2025-Web-Camp---LeetCode/tree/master/1791-richest-customer-wealth) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/bondler1994/2025-Web-Camp---LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
